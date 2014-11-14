@@ -12,22 +12,34 @@
 	<dict>
 		<key>3947837798947078520CEC0F9FED430752A6841A</key>
 		<string>https://github.com/tdagatics/FailedBankCD2.git</string>
+		<key>90F556CE708DBD13F13BA14D5235F5C15B0B0F49</key>
+		<string>https://github.com/tdagatics/ActionSheetDemo.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>ActionSheetDemo/ActionSheetDemo.xcodeproj</string>
+	<string>ActionSheetDemo.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>3947837798947078520CEC0F9FED430752A6841A</key>
-		<string>../../..</string>
+		<string>../../../FailedBankCD2</string>
+		<key>90F556CE708DBD13F13BA14D5235F5C15B0B0F49</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/tdagatics/FailedBankCD2.git</string>
+	<string>https://github.com/tdagatics/ActionSheetDemo.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>3947837798947078520CEC0F9FED430752A6841A</string>
+	<string>90F556CE708DBD13F13BA14D5235F5C15B0B0F49</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>90F556CE708DBD13F13BA14D5235F5C15B0B0F49</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ActionSheetDemo</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
