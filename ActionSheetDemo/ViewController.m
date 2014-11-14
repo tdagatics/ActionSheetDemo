@@ -42,4 +42,20 @@
     [actionSheet showInView:self.view];
     actionSheet.tag = 300;
 }
+
+#pragma mark - ActionSheet Delegate Methods
+
+-(void)actionSheet:(UIActionSheet *)actionSheet clickedButtonAtIndex:(NSInteger)buttonIndex
+{
+    if (actionSheet.tag == 100) {
+        NSLog(@"The normal action sheet.");
+    } else if (actionSheet.tag == 200) {
+            NSLog(@"The delete action sheet.");
+        } else
+        {
+            NSLog(@"The colors aciton sheet.");
+    }
+    NSLog(@"Index = %d - Title = %@", buttonIndex, [actionSheet buttonTitleAtIndex:buttonIndex]);
+}
+
 @end
